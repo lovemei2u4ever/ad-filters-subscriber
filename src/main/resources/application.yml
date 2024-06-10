@@ -18,12 +18,20 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: 'Subscription 1'
-        path: 'https://example.org/rule.txt' #仅支持 http/https，不限定响应内容格式
+      - name: 'AWAvenue'
+        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
+      - name: 'Cats-Team'
+        path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
+        
+      - name: '1Hosts'
+        path: 'https://o0.pages.dev/Pro/adblock.txt'
 
+      - name: 'anti-AD'
+        path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
+        
+      - name: 'BlueSkyXN'
+        path: 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt'
     #本地规则文件
     local:
       - name: 'local rule'

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-16 09:23:11
+! Last Modified: 2024-06-16 16:20:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -45,6 +45,21 @@
 ||*.symae.cn^
 ||*.sysal.cn^
 ||*.uissm.com^
+||*.wap.xsbiquge.com^
+||*.wgnlz.com^
+||*.wzhuze.com^
+||*.xlmc.sandai.net^
+||*.ydqzkj.com^
+||*.yicang8.com^
+||*.yoiur.com^
+||*.yongkang6.com^
+||*.ysdhe.com^
+||*.yunanfuwuqi.com^
+||*.yunos.com^
+||*.yzh360.com^
+||*.zhiong.net^
+||*.zhudiaosz.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -96,20 +111,6 @@
 ||brucelead*.com^
 ||gostats.*^
 ||oiwjcsh*.top^
-||*.wap.xsbiquge.com^
-||*.wgnlz.com^
-||*.wzhuze.com^
-||*.xlmc.sandai.net^
-||*.ydqzkj.com^
-||*.yicang8.com^
-||*.yoiur.com^
-||*.yongkang6.com^
-||*.ysdhe.com^
-||*.yunanfuwuqi.com^
-||*.yunos.com^
-||*.yzh360.com^
-||*.zhiong.net^
-||*.zhudiaosz.com^
 ||*-analytics*.huami.com^
 ||count*.pconline.com.cn^
 ||qchannel*.cn^
@@ -159,7 +160,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
@@ -356,11 +356,9 @@
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileoffers-*-download.com^
-||stats2.*.fdnames.com^
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
-||stats-*.p2pnow.ru^
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
@@ -398,13 +396,15 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
+||stats2.*.fdnames.com^
 ||sock*-goguardian.pusher.com^
+||stats-*.p2pnow.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

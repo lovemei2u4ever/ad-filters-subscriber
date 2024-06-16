@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-16 00:22:00
+! Last Modified: 2024-06-16 09:23:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -45,22 +45,6 @@
 ||*.symae.cn^
 ||*.sysal.cn^
 ||*.uissm.com^
-||*.wap.xsbiquge.com^
-||*.wgnlz.com^
-||*.wzhuze.com^
-||*.xlmc.sandai.net^
-||*.ydqzkj.com^
-||*.yicang8.com^
-||*.yoiur.com^
-||*.yongkang6.com^
-||*.ysdhe.com^
-||*.yunanfuwuqi.com^
-||*.yunos.com^
-||*.yzh360.com^
-||*.zhiong.net^
-||*.zhudiaosz.com^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -112,6 +96,20 @@
 ||brucelead*.com^
 ||gostats.*^
 ||oiwjcsh*.top^
+||*.wap.xsbiquge.com^
+||*.wgnlz.com^
+||*.wzhuze.com^
+||*.xlmc.sandai.net^
+||*.ydqzkj.com^
+||*.yicang8.com^
+||*.yoiur.com^
+||*.yongkang6.com^
+||*.ysdhe.com^
+||*.yunanfuwuqi.com^
+||*.yunos.com^
+||*.yzh360.com^
+||*.zhiong.net^
+||*.zhudiaosz.com^
 ||*-analytics*.huami.com^
 ||count*.pconline.com.cn^
 ||qchannel*.cn^
@@ -161,6 +159,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -204,10 +208,6 @@
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -326,8 +326,6 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -339,6 +337,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -346,11 +345,10 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -358,9 +356,11 @@
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileoffers-*-download.com^
+||stats2.*.fdnames.com^
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||stats-*.p2pnow.ru^
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
@@ -398,13 +398,13 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

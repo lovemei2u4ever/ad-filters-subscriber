@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-22 16:20:57
+! Last Modified: 2024-06-23 00:22:30
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -175,7 +175,6 @@
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||adi*.cnool.net^
-||acookie.*.gif?
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
@@ -190,9 +189,6 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
@@ -228,6 +224,7 @@
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
 ||apple.com-*.live^
+||acookie.*.gif?
 ||asd8900.oss-*.aliyuncs.com^
 ||at*.doubanio.com^
 ||auth-*.hismarttv.com^
@@ -241,6 +238,9 @@
 ||bi-eventtracker-*.amazonaws.com^
 ||bj1*.online^
 ||bjkedv*.xyz^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||browser-intake-*-datadoghq.com^
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
@@ -321,15 +321,11 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
 ||ja*.gamersky.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||stats2.*.fdnames.com^
 ||ky891.oss-*.aliyuncs.com^
-||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -341,6 +337,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -348,12 +345,15 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
+||stats2.*.fdnames.com^
 ||metric*.rediff.com^
+||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -398,9 +398,9 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||sock*-goguardian.pusher.com^
 ||stats*.credit-cooperatif.coop^
 ||stat.*.v-56.com^
-||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

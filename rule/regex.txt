@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-24 09:19:08
+! Last Modified: 2024-06-24 16:22:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -13,7 +13,6 @@
 ||*.adm-cnzz.net^
 ||*.alimama.com^
 ||*.anmeilai.net^
-@@||profile*.se.360.cn^
 ||*.anreson.net^
 ||*.cferw.com^
 ||*.chaojilamei.cn^
@@ -60,6 +59,8 @@
 ||*.yzh360.com^
 ||*.zhiong.net^
 ||*.zhudiaosz.com^
+||163487*.qmgmw.com^
+@@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -159,7 +160,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
@@ -266,6 +266,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -275,15 +276,20 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
+||stats2.*.fdnames.com^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||stats-*.p2pnow.ru^
+||hn-ping*.hashnode.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -297,12 +303,10 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -317,14 +321,10 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
 ||ja*.gamersky.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -354,6 +354,8 @@
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -390,9 +392,7 @@
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
-||stats*.credit-cooperatif.coop^
 ||s*.skencituer.com^
-||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^

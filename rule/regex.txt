@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-24 00:20:21
+! Last Modified: 2024-06-24 09:19:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -13,6 +13,7 @@
 ||*.adm-cnzz.net^
 ||*.alimama.com^
 ||*.anmeilai.net^
+@@||profile*.se.360.cn^
 ||*.anreson.net^
 ||*.cferw.com^
 ||*.chaojilamei.cn^
@@ -59,8 +60,6 @@
 ||*.yzh360.com^
 ||*.zhiong.net^
 ||*.zhudiaosz.com^
-||163487*.qmgmw.com^
-@@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -160,6 +159,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -198,10 +202,6 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
@@ -317,10 +317,14 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
 ||ja*.gamersky.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -329,8 +333,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -345,9 +347,7 @@
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
-||stats2.*.fdnames.com^
 ||mapi-log.qoo*.jp^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -390,7 +390,9 @@
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
+||stats*.credit-cooperatif.coop^
 ||s*.skencituer.com^
+||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
@@ -400,8 +402,6 @@
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||static*.365inews.com^

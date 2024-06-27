@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-27 00:22:44
+! Last Modified: 2024-06-27 09:17:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -161,6 +161,10 @@
 ||*.zhudiaosz.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -191,12 +195,8 @@
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
-||acookie.*.gif?
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -251,10 +251,8 @@
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collector*.ex.co^
-||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
 ||collector-*.px-cloud.net^
-||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
@@ -323,12 +321,12 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
 ||ja*.gamersky.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -386,6 +384,8 @@
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
@@ -399,8 +399,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

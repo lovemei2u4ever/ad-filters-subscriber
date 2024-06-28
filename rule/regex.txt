@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-28 09:18:09
+! Last Modified: 2024-06-28 16:21:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -323,14 +323,10 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats-*.p2pnow.ru^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -339,6 +335,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -349,6 +346,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -379,7 +377,9 @@
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
+||stats2.*.fdnames.com^
 ||qpb*.sohu.com^
+||stats-*.p2pnow.ru^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
@@ -389,8 +389,6 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
@@ -402,7 +400,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-29 16:21:46
+! Last Modified: 2024-06-30 00:21:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -59,6 +59,7 @@
 ||*.yzh360.com^
 ||*.zhiong.net^
 ||*.zhudiaosz.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -142,14 +143,17 @@
 ||appsflyer*.*^
 ||domob*.*^
 ||duomeng*.*^
-||dwtrack*.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -159,12 +163,8 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
+||dwtrack*.*^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -324,9 +324,13 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||stats-*.p2pnow.ru^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -335,17 +339,13 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
-||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -397,11 +397,11 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
+||stats*.credit-cooperatif.coop^
 ||static*.365inews.com^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^

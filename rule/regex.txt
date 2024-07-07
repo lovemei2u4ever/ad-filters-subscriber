@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-07 16:20:27
+! Last Modified: 2024-07-08 00:20:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -161,6 +161,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -225,11 +229,7 @@
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
 ||apple.com-*.live^
-||acookie.*.gif?
 ||asd8900.oss-*.aliyuncs.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||at*.doubanio.com^
 ||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
@@ -363,6 +363,7 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||collector-*.px-client.net^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -373,8 +374,10 @@
 ||player-feedback*.glomex.*^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||prebid-*.rubiconproject.com^
+||stats2.*.fdnames.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats-*.p2pnow.ru^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
@@ -395,7 +398,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
-||collector-*.px-client.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
@@ -403,8 +405,6 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
-||stats-*.p2pnow.ru^
-||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

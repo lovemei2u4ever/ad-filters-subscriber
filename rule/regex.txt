@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-10 16:24:01
+! Last Modified: 2024-07-11 00:22:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -161,11 +161,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -323,14 +323,10 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats-*.p2pnow.ru^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -339,6 +335,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -349,6 +346,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -362,6 +360,8 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -392,8 +392,6 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
@@ -402,7 +400,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

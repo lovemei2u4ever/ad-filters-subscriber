@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-11 16:22:27
+! Last Modified: 2024-07-12 00:22:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -166,10 +166,6 @@
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -213,6 +209,10 @@
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||analytics-*-nfl.yinzcam.com^
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -395,8 +395,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
@@ -404,6 +402,8 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

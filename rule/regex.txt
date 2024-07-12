@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-12 16:23:27
+! Last Modified: 2024-07-13 00:22:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -205,10 +205,6 @@
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -217,6 +213,10 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
 ||api*.amplitude.com^
@@ -327,7 +327,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -336,19 +335,18 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
-||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
-||stats2.*.fdnames.com^
 ||mapi-log.qoo*.jp^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -388,7 +386,9 @@
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
+||stats2.*.fdnames.com^
 ||s*.skencituer.com^
+||stats-*.p2pnow.ru^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^

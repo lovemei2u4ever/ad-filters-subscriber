@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-13 16:20:25
+! Last Modified: 2024-07-14 00:20:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -12,7 +12,6 @@
 ||*.ad-cloud.jp^
 ||*.adm-cnzz.net^
 ||*.alimama.com^
-@@||profile*.se.360.cn^
 ||*.anmeilai.net^
 ||*.anreson.net^
 ||*.cferw.com^
@@ -61,6 +60,7 @@
 ||*.yzh360.com^
 ||*.zhiong.net^
 ||*.zhudiaosz.com^
+@@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -162,10 +162,6 @@
 ||tuiguang.*^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -226,7 +222,11 @@
 ||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||api.*.hismarttv.com^
+||acookie.*.gif?
 ||app-analytics-*.snapchat.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||appanalysis*.banggood.com^
 ||apple.com-*.live^
 ||asd8900.oss-*.aliyuncs.com^
@@ -288,7 +288,6 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||geotargetly-api-*.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -296,6 +295,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -312,16 +312,12 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||stats2.*.fdnames.com^
 ||iwanshang*.asia^
-||stats-*.p2pnow.ru^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
@@ -339,6 +335,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -349,6 +346,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -384,8 +382,6 @@
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
@@ -402,8 +398,12 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

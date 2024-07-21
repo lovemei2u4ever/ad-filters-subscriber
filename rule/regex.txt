@@ -1,9 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-21 16:20:47
+! Last Modified: 2024-07-22 00:23:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
 @@||profile*.se.360.cn^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -103,13 +108,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
 ||a*.chajiaotong.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -138,7 +142,6 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||acookie.*.gif?
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
@@ -154,9 +157,6 @@
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -262,10 +262,14 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
 ||ja*.gamersky.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -282,7 +286,6 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -293,7 +296,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -338,18 +340,16 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.yhzzzs*.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,10 +1,17 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-22 09:22:41
+! Last Modified: 2024-07-22 16:24:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
+||acookie.*.gif?
 @@||profile*.se.360.cn^
-@@||tongji.*kuwo.cn^
+||*serror*.wo.com.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
 ||gg*.miguvideo.com^
@@ -46,6 +53,7 @@
 ||24log.*^
 ||24smi.*^
 ||ad-*.wikawika.xyz^
+@@||tongji.*kuwo.cn^
 ||ablen*.tk^
 ||darking*.tk^
 ||doubleclick*.xyz^
@@ -65,7 +73,6 @@
 ||waframedia*.*^
 ||wafmedia*.*^
 ||voluumtrk*.com^
-||vmm-satellite*.com^
 ||vente-unique.*^
 ||vegaoo*.*^
 ||umtrack*.com^
@@ -103,12 +110,9 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
+||vmm-satellite*.com^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -123,10 +127,6 @@
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adi*.cnool.net^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -287,16 +287,18 @@
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
+||mcdp-*.outbrain.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
+||stats2.*.fdnames.com^
 ||metric*.rediff.com^
+||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -324,10 +326,8 @@
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
-||stats2.*.fdnames.com^
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
-||stats-*.p2pnow.ru^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
@@ -339,7 +339,9 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+||stats*.credit-cooperatif.coop^
 ||sd.yhzzzs*.com^
+||stat.*.v-56.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
@@ -347,9 +349,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-24 16:22:16
+! Last Modified: 2024-07-25 00:22:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -109,6 +109,10 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -138,11 +142,7 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||acookie.*.gif?
 ||ads.livetv*.me^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
@@ -334,6 +334,8 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
@@ -341,8 +343,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-25 16:23:35
+! Last Modified: 2024-07-26 00:23:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -108,7 +109,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
@@ -120,11 +120,11 @@
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
-||*serror*.wo.com.cn^
 ||ad.*.xiaomi.com^
+||ad.kisstvshow.*^
+||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||adi*.cnool.net^
@@ -327,8 +327,6 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
@@ -344,6 +342,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-03 16:22:25
+! Last Modified: 2024-08-04 00:23:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -9,20 +9,6 @@
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||a*.chajiaotong.com^
-||aan.amazon.*^
-||ac*.786ip.com^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
-||ad*.ettoday.net^
-||ad*.nexage.com^
-||ad*.on.cc^
-||ad-*.amazonaws.com^
-||ad-*.appacc.dbankedge.cn^
-||ad.*.xiaomi.com^
-||ad.kisstvshow.*^
-||adcounter*.uptolike.ru^
-||adcs-*.myappsget.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -30,7 +16,6 @@
 ||gg*.miguvideo.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
-||adi*.cnool.net^
 ||ping.*.sogou.com^
 ||tracker*.qcloud.com^
 ||vs*.gzcu.u3.ucweb.com^
@@ -124,6 +109,25 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
+||ac*.786ip.com^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
+||ad*.ettoday.net^
+||ad*.nexage.com^
+||ad*.on.cc^
+||ad-*.amazonaws.com^
+||ad-*.appacc.dbankedge.cn^
+||ad.*.xiaomi.com^
+||ad.kisstvshow.*^
+||adcounter*.uptolike.ru^
+||adcs-*.myappsget.com^
+||adi*.cnool.net^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
@@ -147,16 +151,12 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
 ||aj1*.online^
 ||aj1*.xyz^
-||*serror*.wo.com.cn^
 ||aj2*.bid^
 ||aj2*.online^
 ||aj3*.bid^
-||lianmeng*.*^
 ||ajx*.online^
-||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -234,6 +234,7 @@
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
+||geotargetly-api-*.com^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||gads*s.com^
@@ -243,7 +244,6 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -260,9 +260,13 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||iwanshang*.asia^
@@ -275,8 +279,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -286,10 +288,8 @@
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
-||stats2.*.fdnames.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
-||stats-*.p2pnow.ru^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
@@ -332,6 +332,8 @@
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -345,8 +347,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

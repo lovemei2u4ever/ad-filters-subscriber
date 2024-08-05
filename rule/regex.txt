@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-05 09:22:35
+! Last Modified: 2024-08-05 16:23:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -324,6 +324,8 @@
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
@@ -337,8 +339,6 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^

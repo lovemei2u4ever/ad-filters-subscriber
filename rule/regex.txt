@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-07 16:23:08
+! Last Modified: 2024-08-08 00:23:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,11 +8,8 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
-||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
-||*serror*.wo.com.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
 ||gg*.miguvideo.com^
@@ -46,15 +43,11 @@
 ||jshosting.*^
 ||flightzy.*^
 ||sunnimiq*.cf^
-||sunnimiq*.cf^
 ||admob.*^
-||admob.*^
-||*log.droid4x.cn^
 ||*log.droid4x.cn^
 ||*tsdk.vivo.com.cn^
 ||*.mmstat.com^
 ||f-log*.grammarly.io^
-||24log.*^
 ||24log.*^
 ||24smi.*^
 ||ad-*.wikawika.xyz^
@@ -115,13 +108,16 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||lianmeng*.*^
-||tracking*.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -331,8 +327,10 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
+||stats2.*.fdnames.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
+||stats-*.p2pnow.ru^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -343,8 +341,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.yhzzzs*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^

@@ -1,13 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-09 16:23:46
+! Last Modified: 2024-08-10 00:23:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -108,6 +103,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
@@ -139,13 +139,13 @@
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
-||adserver.*.yahoodns.net^
 ||acookie.*.gif?
-||adservice.google.*^
-||adsfilebssdlbig.*.kugou.com^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
+||adserver.*.yahoodns.net^
 ||tracking*.*^
+||adservice.google.*^
+||adsfilebssdlbig.*.kugou.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -308,6 +308,8 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -326,9 +328,7 @@
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
-||stats2.*.fdnames.com^
 ||reachableads-av.*.amazonaws.com^
-||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^

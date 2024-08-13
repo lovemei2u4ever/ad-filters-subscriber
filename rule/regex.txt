@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-13 16:23:17
+! Last Modified: 2024-08-14 00:22:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -89,7 +89,6 @@
 ||analysis*.*^
 ||applovin*.*^
 ||appsflyer*.*^
-||163487*.qmgmw.com^
 ||domob*.*^
 ||duomeng*.*^
 ||dwtrack*.*^
@@ -109,6 +108,7 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -292,9 +292,9 @@
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
-||mcdp-*.outbrain.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -305,11 +305,11 @@
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||ms*.applvn.com^
+||stats2.*.fdnames.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^

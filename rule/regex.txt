@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-13 09:23:46
+! Last Modified: 2024-08-13 16:23:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,7 +8,6 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -90,6 +89,7 @@
 ||analysis*.*^
 ||applovin*.*^
 ||appsflyer*.*^
+||163487*.qmgmw.com^
 ||domob*.*^
 ||duomeng*.*^
 ||dwtrack*.*^
@@ -109,15 +109,15 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||acookie.*.gif?
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -292,9 +292,9 @@
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
+||mcdp-*.outbrain.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -305,6 +305,8 @@
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
@@ -321,10 +323,8 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
 ||prebid-*.rubiconproject.com^
-||stats2.*.fdnames.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
-||stats-*.p2pnow.ru^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-17 09:19:27
+! Last Modified: 2024-08-17 16:21:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -26,6 +26,7 @@
 ||pussl*.com^
 ||putrr*.com^
 ||log*.molitv.cn^
+||163487*.qmgmw.com^
 ||adm*.autoimg.cn^
 ||cloudservice*.kingsoft-office-service.com^
 ||gg*.51cto.com^
@@ -108,9 +109,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
 ||aan.amazon.*^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -147,16 +151,12 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -308,10 +308,11 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -320,7 +321,6 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
-||stats-*.p2pnow.ru^
 ||player-feedback*.glomex.*^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^

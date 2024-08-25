@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-25 09:35:02
+! Last Modified: 2024-08-25 16:21:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,8 +8,6 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -110,6 +108,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
+||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -141,12 +145,8 @@
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
-||acookie.*.gif?
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -309,6 +309,8 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -321,9 +323,7 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
-||stats2.*.fdnames.com^
 ||prebid-*.rubiconproject.com^
-||stats-*.p2pnow.ru^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^

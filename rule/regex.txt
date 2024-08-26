@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-26 00:21:22
+! Last Modified: 2024-08-26 09:22:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
@@ -108,16 +109,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
-||acookie.*.gif?
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -152,10 +148,14 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||aj1*.online^
 ||aj1*.xyz^
+||lianmeng*.*^
 ||aj2*.bid^
 ||aj2*.online^
+||tracking*.*^
 ||aj3*.bid^
 ||ajx*.online^
 ||ana*.inews24.com^
@@ -292,13 +292,11 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||stats2.*.fdnames.com^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
-||stats-*.p2pnow.ru^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
 ||mistat.*.xiaomi.com^
@@ -333,6 +331,8 @@
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^

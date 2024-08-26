@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-26 16:25:14
+! Last Modified: 2024-08-27 00:25:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,9 +8,9 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
+||163487*.qmgmw.com^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
 ||gg*.miguvideo.com^
@@ -146,10 +146,6 @@
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
 ||aj1*.online^
@@ -176,9 +172,13 @@
 ||api-*.hismarttv.com^
 ||api.*.hismarttv.com^
 ||app-analytics-*.snapchat.com^
+||acookie.*.gif?
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||apple.com-*.live^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||at*.doubanio.com^
 ||auth-*.hismarttv.com^
@@ -273,6 +273,8 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -284,7 +286,6 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -292,10 +293,11 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -344,8 +346,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

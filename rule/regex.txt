@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-27 09:23:50
+! Last Modified: 2024-08-27 16:24:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -43,7 +43,6 @@
 ||jshosting.*^
 ||flightzy.*^
 ||sunnimiq*.cf^
-||163487*.qmgmw.com^
 ||admob.*^
 ||*log.droid4x.cn^
 ||*tsdk.vivo.com.cn^
@@ -109,15 +108,16 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
+||acookie.*.gif?
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -273,6 +273,8 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -284,23 +286,21 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -342,6 +342,8 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
@@ -349,9 +351,7 @@
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
-||stats*.credit-cooperatif.coop^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-28 16:24:19
+! Last Modified: 2024-08-29 00:24:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -109,10 +109,6 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -166,6 +162,10 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
 ||api*.amplitude.com^
@@ -272,13 +272,14 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||ky891.oss-*.aliyuncs.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats2.*.fdnames.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -288,7 +289,6 @@
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
-||stats-*.p2pnow.ru^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -330,11 +330,11 @@
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^

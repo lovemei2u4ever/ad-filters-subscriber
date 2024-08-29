@@ -1,9 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-29 09:25:02
+! Last Modified: 2024-08-29 16:24:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -103,18 +108,13 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -288,14 +288,16 @@
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
+||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
+||stats-*.p2pnow.ru^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -310,8 +312,6 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
 ||pijama.*.elasticbeanstalk.com^

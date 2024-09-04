@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-04 09:25:59
+! Last Modified: 2024-09-04 16:23:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -110,21 +110,21 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
-||*serror*.wo.com.cn^
 ||ad.kisstvshow.*^
-||lianmeng*.*^
-||tracking*.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||adi*.cnool.net^
@@ -267,17 +267,18 @@
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats2.*.fdnames.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -287,7 +288,6 @@
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
-||stats-*.p2pnow.ru^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -333,10 +333,12 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||stats*.credit-cooperatif.coop^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
+||stat.*.v-56.com^
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
@@ -345,8 +347,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

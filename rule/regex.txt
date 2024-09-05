@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-05 09:26:01
+! Last Modified: 2024-09-05 16:24:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,9 +8,8 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-@@||profile*.se.360.cn^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
+@@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -110,10 +109,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||a*.chajiaotong.com^
+||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -310,9 +310,7 @@
 ||n*adserv.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
-||stats2.*.fdnames.com^
 ||pangolin-sdk-toutiao*.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -342,6 +340,8 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.yhzzzs*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^

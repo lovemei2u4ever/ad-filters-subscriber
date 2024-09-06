@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-06 00:24:49
+! Last Modified: 2024-09-06 09:25:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -10,7 +10,6 @@
 ||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
-||163487*.qmgmw.com^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
 ||gg*.miguvideo.com^
@@ -108,7 +107,12 @@
 ||da.hornbach.*^
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
+||163487*.qmgmw.com^
 ||tuiguang.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.786ip.com^
@@ -143,13 +147,9 @@
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
-||acookie.*.gif?
 ||adv0*.msa.cdn.mediaset.net^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
-||tracking*.*^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
 ||aj1*.online^
@@ -261,16 +261,12 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -287,6 +283,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -297,6 +294,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -322,15 +320,14 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
-||stats*.credit-cooperatif.coop^
 ||prebid-*.rubiconproject.com^
-||stat.*.v-56.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
+||query*.petametrics.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
@@ -347,11 +344,15 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

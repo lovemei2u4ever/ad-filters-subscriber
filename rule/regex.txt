@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-07 09:24:27
+! Last Modified: 2024-09-07 16:22:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,7 +8,9 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
+||a*.chajiaotong.com^
 @@||tongji.*kuwo.cn^
 ||ads*-normal-hl.zijieapi.com^
 ||bj*.9669.cn^
@@ -108,12 +110,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -166,6 +162,10 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
 ||api*.amplitude.com^
@@ -308,11 +308,11 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^

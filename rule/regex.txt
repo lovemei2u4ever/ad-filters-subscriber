@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-10 09:34:09
+! Last Modified: 2024-09-10 16:25:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -222,7 +222,6 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -245,15 +244,12 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
-||log-*.previewnetworks.com^
 ||gtlpa*.com^
-||mcdp-*.outbrain.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||stats2.*.fdnames.com^
 ||hn-ping*.hashnode.com^
-||stats-*.p2pnow.ru^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -279,6 +275,7 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||log-*.previewnetworks.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -288,12 +285,15 @@
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
+||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
+||stats2.*.fdnames.com^
 ||mapi-log.qoo*.jp^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -322,8 +322,6 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
@@ -349,6 +347,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

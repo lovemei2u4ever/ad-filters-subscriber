@@ -1,16 +1,31 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-19 09:35:37
+! Last Modified: 2024-09-19 16:26:07
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
+||ac*.786ip.com^
+||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
+||at*.doubanio.com^
 ||bj*.9669.cn^
+||d*.ruiwen.com^
+||d*.xinshipu.com^
+||dm*.yxlady.com^
 ||gg*.miguvideo.com^
+||impservice*.youdao.com^
+||ja*.gamersky.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
+||qpb*.sohu.com^
+||same*.stockstar.com^
 ||tracker*.qcloud.com^
 ||vs*.gzcu.u3.ucweb.com^
 ||bs*.9669.cn^
@@ -103,19 +118,13 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||ac*.786ip.com^
+||a*.chajiaotong.com^
+||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -127,7 +136,6 @@
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
-||adi*.cnool.net^
 ||admob-app-id-*.firebaseio.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -180,7 +188,6 @@
 ||apple-*.le.com^
 ||apple.com-*.live^
 ||asd8900.oss-*.aliyuncs.com^
-||at*.doubanio.com^
 ||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
 ||banner.*.tccapis.com^
@@ -207,9 +214,7 @@
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.stat.ovh^
 ||cs*.mp3bars.com^
-||d*.ruiwen.com^
 ||d*.wanzhuang.com^
-||d*.xinshipu.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -218,11 +223,9 @@
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dm*.ppzuowen.com^
-||dm*.yxlady.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -245,14 +248,12 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
-||stats2.*.fdnames.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -260,17 +261,14 @@
 ||host*.rigbyandpeller.com^
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
-||stats-*.p2pnow.ru^
 ||hstats*.hepsiburada.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||impservice*.youdao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -287,6 +285,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -297,6 +296,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -310,6 +310,8 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -323,13 +325,10 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
 ||prebid-*.rubiconproject.com^
-||stats*.credit-cooperatif.coop^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
-||stat.*.v-56.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
-||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
 ||reachableads-av.*.amazonaws.com^
@@ -343,7 +342,6 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||same*.stockstar.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
@@ -352,7 +350,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

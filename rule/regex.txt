@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-21 00:25:11
+! Last Modified: 2024-09-21 09:26:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -118,12 +119,7 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||acookie.*.gif?
 ||a*.chajiaotong.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -184,9 +180,13 @@
 ||api-*.hismarttv.com^
 ||api.*.hismarttv.com^
 ||app-analytics-*.snapchat.com^
+||acookie.*.gif?
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||apple.com-*.live^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
@@ -277,8 +277,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -287,6 +285,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -294,11 +293,10 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -334,6 +332,8 @@
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -346,13 +346,13 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

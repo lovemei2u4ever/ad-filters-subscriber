@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-23 09:37:56
+! Last Modified: 2024-09-23 16:26:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -9,7 +9,6 @@
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
-||163487*.qmgmw.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
@@ -119,11 +118,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
-||a*.chajiaotong.com^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -287,10 +287,10 @@
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
-||mcdp-*.outbrain.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
@@ -342,12 +342,12 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

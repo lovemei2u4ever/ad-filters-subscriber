@@ -1,14 +1,10 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-23 16:26:40
+! Last Modified: 2024-09-24 00:24:37
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
+@@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
@@ -118,11 +114,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -137,6 +134,10 @@
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
@@ -273,7 +274,11 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -285,17 +290,13 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
-||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^

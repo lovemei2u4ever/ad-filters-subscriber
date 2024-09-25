@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-25 09:39:05
+! Last Modified: 2024-09-25 16:28:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -120,8 +120,11 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -150,9 +153,6 @@
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
@@ -231,6 +231,7 @@
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
+||geotargetly-api-*.com^
 ||f-log-*.grammarly.io^
 ||fads*s.com^
 ||fads*z.com^
@@ -249,11 +250,12 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -266,6 +268,8 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -286,7 +290,6 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -297,7 +300,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -305,11 +307,9 @@
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileoffers-*-download.com^
-||stats2.*.fdnames.com^
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
-||stats-*.p2pnow.ru^
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
@@ -332,6 +332,8 @@
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.qq.com^
@@ -351,9 +353,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

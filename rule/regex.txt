@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-26 09:37:07
+! Last Modified: 2024-09-26 16:26:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -119,12 +120,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -227,6 +227,7 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
+||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -249,10 +250,11 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
@@ -266,6 +268,8 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -274,11 +278,7 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^

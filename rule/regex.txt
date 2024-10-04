@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-04 16:26:04
+! Last Modified: 2024-10-05 00:26:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -119,7 +120,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -222,6 +222,7 @@
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
+||geotargetly-api-*.com^
 ||dj1*.online^
 ||dm*.ppzuowen.com^
 ||dm-*.toutiao.com^
@@ -242,6 +243,8 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -249,12 +252,13 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||hn-ping*.hashnode.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -286,22 +290,18 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
-||mcdp-*.outbrain.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||stats2.*.fdnames.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
-||stats-*.p2pnow.ru^
 ||metric*.rediff.com^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
@@ -313,6 +313,8 @@
 ||ms*.applvn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -346,8 +348,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

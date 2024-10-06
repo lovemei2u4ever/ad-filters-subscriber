@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-06 00:23:56
+! Last Modified: 2024-10-06 09:43:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -121,6 +121,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -148,10 +152,6 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
@@ -204,6 +204,7 @@
 ||cas.*.criteo.com^
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
+||chat*-ce.chatdealer.jp^
 ||cj1*.online^
 ||clog*.yuanfudao.com^
 ||collect-elb-*.amazonaws.com^
@@ -236,6 +237,7 @@
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||geotargetly-api-*.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -249,12 +251,15 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
 ||gscounters.*.gigya.com^
+||stats-*.p2pnow.ru^
 ||gtlpa*.com^
 ||hads*s.com^
-||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
+||hbbtv.*.de^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -286,12 +291,10 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
-||mcdp-*.outbrain.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
@@ -299,10 +302,8 @@
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcs-va-*.tiktokv.com^
-||stats2.*.fdnames.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
-||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -315,7 +316,9 @@
 ||n*adserv.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
+||stats*.credit-cooperatif.coop^
 ||pangolin-sdk-toutiao*.com^
+||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -350,9 +353,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-07 16:26:40
+! Last Modified: 2024-10-08 00:25:30
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,25 +8,17 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
-@@||usageapi.*.oraclecloud.com^
-@@||tongji.*kuwo.cn^
-||ac*.786ip.com^
-||adi*.cnool.net^
+||acookie.*.gif?
+||a*.chajiaotong.com^
+||*serror*.wo.com.cn^
 ||ads*-normal-hl.zijieapi.com^
-||at*.doubanio.com^
 ||bj*.9669.cn^
-||d*.ruiwen.com^
-||d*.xinshipu.com^
-||dm*.yxlady.com^
 ||gg*.miguvideo.com^
-||impservice*.youdao.com^
-||ja*.gamersky.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
-||qpb*.sohu.com^
-||same*.stockstar.com^
 ||tracker*.qcloud.com^
 ||vs*.gzcu.u3.ucweb.com^
 ||bs*.9669.cn^
@@ -104,12 +96,14 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -119,12 +113,18 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
-||a*.chajiaotong.com^
+@@||usageapi.*.oraclecloud.com^
+@@||tongji.*kuwo.cn^
+||ac*.786ip.com^
+||adi*.cnool.net^
+||at*.doubanio.com^
+||d*.ruiwen.com^
+||d*.xinshipu.com^
+||dm*.yxlady.com^
+||impservice*.youdao.com^
+||ja*.gamersky.com^
+||qpb*.sohu.com^
+||same*.stockstar.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -271,14 +271,10 @@
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -291,13 +287,17 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
+||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -326,8 +326,6 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
@@ -353,7 +351,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-08 09:38:10
+! Last Modified: 2024-10-08 16:26:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,18 +8,26 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||acookie.*.gif?
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
-||*serror*.wo.com.cn^
+||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
+||at*.doubanio.com^
 ||bj*.9669.cn^
+||d*.ruiwen.com^
+||d*.xinshipu.com^
+||dm*.yxlady.com^
 ||gg*.miguvideo.com^
+||impservice*.youdao.com^
+||ja*.gamersky.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
+||qpb*.sohu.com^
+||same*.stockstar.com^
 ||tracker*.qcloud.com^
 ||vs*.gzcu.u3.ucweb.com^
 ||bs*.9669.cn^
@@ -87,15 +95,6 @@
 ||adservice*.*^
 ||adsh*.*^
 ||adsmogo*.*^
-||adi*.cnool.net^
-||at*.doubanio.com^
-||d*.ruiwen.com^
-||d*.xinshipu.com^
-||dm*.yxlady.com^
-||impservice*.youdao.com^
-||ja*.gamersky.com^
-||qpb*.sohu.com^
-||same*.stockstar.com^
 ||adsrvmedia*.*^
 ||adsystem*.*^
 ||adwords*.*^
@@ -106,14 +105,12 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
-||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
-||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -123,17 +120,20 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -267,12 +267,8 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^
@@ -291,6 +287,7 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -301,6 +298,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -312,6 +310,8 @@
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||ms*.applvn.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
@@ -343,12 +343,12 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

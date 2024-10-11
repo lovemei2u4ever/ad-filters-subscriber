@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-11 16:26:11
+! Last Modified: 2024-10-12 00:25:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -150,13 +150,13 @@
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
-||adservice.google.*^
-||adsfilebssdlbig.*.kugou.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
-||adv0*.msa.cdn.mediaset.net^
 ||lianmeng*.*^
 ||tracking*.*^
+||adservice.google.*^
+||adsfilebssdlbig.*.kugou.com^
+||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
@@ -286,6 +286,7 @@
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
+||log*.zijieapi.com^
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
@@ -309,14 +310,14 @@
 ||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||stats2.*.fdnames.com^
 ||ms*.applvn.com^
+||stats-*.p2pnow.ru^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -326,6 +327,7 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
+||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
@@ -359,6 +361,7 @@
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
 ||thezbpe5*.xyz^
+||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||toujing*.top^
 ||track.*.roku.com^

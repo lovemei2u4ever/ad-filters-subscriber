@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-13 09:43:12
+! Last Modified: 2024-10-13 16:23:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -24,7 +24,6 @@
 ||ja*.gamersky.com^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
-||163487*.qmgmw.com^
 ||ping.*.sogou.com^
 ||qpb*.sohu.com^
 ||same*.stockstar.com^
@@ -120,11 +119,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
+||a*.chajiaotong.com^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -292,16 +292,14 @@
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
-||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -350,13 +348,15 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||sock*-goguardian.pusher.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

@@ -1,16 +1,16 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-14 00:23:54
+! Last Modified: 2024-10-14 09:40:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
-@@||usageapi.*.oraclecloud.com^
-@@||tongji.*kuwo.cn^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+@@||usageapi.*.oraclecloud.com^
+@@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
@@ -120,6 +120,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -133,10 +137,6 @@
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||admob-app-id-*.firebaseio.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -228,7 +228,6 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -242,6 +241,7 @@
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
+||geotargetly-api-*.com^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||gads*s.com^
@@ -255,10 +255,10 @@
 ||mcdp-*.outbrain.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
-||hads*s.com^
-||hbbtv.*.de^
 ||stats2.*.fdnames.com^
+||hads*s.com^
 ||stats-*.p2pnow.ru^
+||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -327,14 +327,14 @@
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
+||stats*.credit-cooperatif.coop^
 ||polaris*-normal-*.zijieapi.com^
+||stat.*.v-56.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^

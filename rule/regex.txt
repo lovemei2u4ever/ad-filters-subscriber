@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-16 16:26:58
+! Last Modified: 2024-10-17 00:24:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -119,12 +120,7 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -154,6 +150,10 @@
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
@@ -217,7 +217,6 @@
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.stat.ovh^
 ||cs*.mp3bars.com^
-||geotargetly-api-*.com^
 ||d*.wanzhuang.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -226,16 +225,10 @@
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||dm*.ppzuowen.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||ej1*.online^
-||faro-collector-prod-*.grafana.net^
-||hn-ping*.hashnode.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -244,6 +237,7 @@
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
+||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -257,10 +251,12 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -293,6 +289,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -303,6 +300,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -317,11 +315,10 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats2.*.fdnames.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -330,6 +327,7 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
+||stats-*.p2pnow.ru^
 ||player-feedback*.glomex.*^
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
@@ -357,7 +355,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

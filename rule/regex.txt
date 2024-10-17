@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-17 00:24:39
+! Last Modified: 2024-10-17 09:38:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -124,12 +124,16 @@
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -150,10 +154,6 @@
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
@@ -276,20 +276,24 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
+||log*-normal-*.tiktokv.us^
 ||log*-normal-lq.toutiaoapi.com^
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -300,7 +304,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -318,7 +321,6 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -327,7 +329,6 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
-||stats-*.p2pnow.ru^
 ||player-feedback*.glomex.*^
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
@@ -349,15 +350,15 @@
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
+||stats*.credit-cooperatif.coop^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

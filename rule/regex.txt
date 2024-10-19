@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-19 16:24:39
+! Last Modified: 2024-10-20 00:23:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -120,12 +120,12 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
-||aan.amazon.*^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -242,7 +242,6 @@
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
-||geotargetly-api-*.com^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||gads*s.com^
@@ -252,6 +251,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -267,15 +267,11 @@
 ||hstats*.hepsiburada.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||stats2.*.fdnames.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||stats-*.p2pnow.ru^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -294,6 +290,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -304,6 +301,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -318,11 +316,11 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -358,7 +356,9 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-22 00:25:18
+! Last Modified: 2024-10-22 09:39:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -8,10 +8,15 @@
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
+||*-ad-sign.byteimg.com^
 ||ads*-normal-hl.zijieapi.com^
+||*-ad.a.yximgs.com^
 ||at*.doubanio.com^
+||*-applog.fqnovel.com^
 ||bj*.9669.cn^
+||*.exaapi.com^
 ||d*.ruiwen.com^
+||*.wap.xsbiquge.com^
 ||d*.xinshipu.com^
 ||dm*.yxlady.com^
 ||gg*.miguvideo.com^
@@ -114,22 +119,21 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
+||*serror*.wo.com.cn^
 ||ad.*.xiaomi.com^
+||lianmeng*.*^
+||tracking*.*^
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -194,10 +198,6 @@
 ||bd*-ys.km.com^
 ||bdlm*.hc360.com^
 ||beacons*.gvt3.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||bi-eventtracker-*.amazonaws.com^
 ||bjkedv*.xyz^
 ||browser-intake-*-datadoghq.com^
@@ -277,6 +277,8 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -290,18 +292,18 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -344,21 +346,19 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
-||stats2.*.fdnames.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||stats-*.p2pnow.ru^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

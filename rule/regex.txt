@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-27 16:25:44
+! Last Modified: 2024-10-28 00:24:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,8 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -123,8 +125,6 @@
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -342,7 +342,9 @@
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
+||stats2.*.fdnames.com^
 ||s*.skencituer.com^
+||stats-*.p2pnow.ru^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
@@ -350,8 +352,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

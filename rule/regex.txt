@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-27 00:23:27
+! Last Modified: 2024-10-27 09:44:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -120,6 +120,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -158,15 +162,11 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
 ||aj2*.online^
 ||aj3*.bid^
-||lianmeng*.*^
-||tracking*.*^
 ||ajx*.online^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
@@ -195,7 +195,6 @@
 ||banner.*.tccapis.com^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
-||bd*-ys.km.com^
 ||bdlm*.hc360.com^
 ||beacons*.gvt3.com^
 ||bi-eventtracker-*.amazonaws.com^
@@ -316,13 +315,13 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
-||stats-*.p2pnow.ru^
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
@@ -406,6 +405,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||ysdm*.ys137.com.cn^
 ||teleriumads-*.netdna-ssl.com^

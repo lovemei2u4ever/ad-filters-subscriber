@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-29 16:26:46
+! Last Modified: 2024-10-30 00:28:07
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -121,11 +121,7 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
 ||aan.amazon.*^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -176,8 +172,12 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
+||lianmeng*.*^
+||tracking*.*^
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
@@ -271,10 +271,14 @@
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -289,7 +293,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -300,7 +303,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -315,8 +317,6 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -348,7 +348,9 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
+||stats*.credit-cooperatif.coop^
 ||sell*.etlong.com^
+||stat.*.v-56.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
@@ -356,9 +358,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
@@ -405,7 +405,6 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||ysdm*.ys137.com.cn^
 ||teleriumads-*.netdna-ssl.com^

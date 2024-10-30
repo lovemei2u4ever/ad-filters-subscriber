@@ -1,13 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-30 16:28:33
+! Last Modified: 2024-10-31 00:26:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -113,13 +108,18 @@
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 ||ssc.southpark*^
 ||tr.*.espmp-*fr.net^
 ||da.hornbach.*^
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -228,6 +228,7 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
+||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -250,9 +251,10 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||hads*s.com^
 ||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
@@ -264,8 +266,10 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
+||stats2.*.fdnames.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
+||stats-*.p2pnow.ru^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -289,7 +293,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -300,7 +303,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -316,10 +318,10 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -356,9 +358,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

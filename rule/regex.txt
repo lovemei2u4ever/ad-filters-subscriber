@@ -1,11 +1,19 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-31 00:26:32
+! Last Modified: 2024-10-31 09:40:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
+||a*.chajiaotong.com^
+||acookie.*.gif?
 @@||usageapi.*.oraclecloud.com^
-@@||tongji.*kuwo.cn^
+||*serror*.wo.com.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
@@ -99,32 +107,23 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 ||ssc.southpark*^
 ||tr.*.espmp-*fr.net^
 ||da.hornbach.*^
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -134,6 +133,7 @@
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
+@@||tongji.*kuwo.cn^
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -228,7 +228,6 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -251,10 +250,9 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||hads*s.com^
 ||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
@@ -266,10 +264,8 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
-||stats2.*.fdnames.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
-||stats-*.p2pnow.ru^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -279,7 +275,11 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -320,8 +320,6 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -354,6 +352,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-01 09:45:53
+! Last Modified: 2024-11-01 16:25:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -121,11 +121,11 @@
 ||tuiguang.*^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||aan.amazon.*^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -293,19 +293,19 @@
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
+||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^

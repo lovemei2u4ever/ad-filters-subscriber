@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-03 16:23:08
+! Last Modified: 2024-11-04 00:23:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,7 +8,6 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -120,7 +119,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
+||acookie.*.gif?
 ||a*.chajiaotong.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -150,12 +154,8 @@
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
 ||ads.livetv*.me^
-||acookie.*.gif?
 ||adserver.*.yahoodns.net^
-||*serror*.wo.com.cn^
 ||adservice.google.*^
-||lianmeng*.*^
-||tracking*.*^
 ||adsfilebssdlbig.*.kugou.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
@@ -271,18 +271,18 @@
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||log-*.previewnetworks.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
-||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||ky891.oss-*.aliyuncs.com^
+||jtbo*.nqxvevk.cn^
 ||stats2.*.fdnames.com^
+||ky891.oss-*.aliyuncs.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats-*.p2pnow.ru^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -346,6 +346,8 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
@@ -353,8 +355,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

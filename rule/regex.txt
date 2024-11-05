@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-05 09:36:55
+! Last Modified: 2024-11-05 16:25:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -119,6 +119,10 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
@@ -149,10 +153,6 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
@@ -224,7 +224,6 @@
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
-||dm*.ppzuowen.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
@@ -317,7 +316,9 @@
 ||n*adserv.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
+||stats2.*.fdnames.com^
 ||pangolin-sdk-toutiao*.com^
+||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -351,8 +352,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
@@ -407,6 +406,7 @@
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
 ||ysdm*.ys137.com.cn^
 ||teleriumads-*.netdna-ssl.com^
 ||block.s*block.com^

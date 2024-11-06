@@ -1,8 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-06 09:36:22
+! Last Modified: 2024-11-06 16:26:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -17,15 +23,10 @@
 ||gg*.miguvideo.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
-||*-ad-sign.byteimg.com^
 ||minero-proxy-*.sh^
-||*-ad.a.yximgs.com^
 ||p*-ad-sign.byteimg.com^
-||*-applog.fqnovel.com^
 ||ping.*.sogou.com^
-||*.exaapi.com^
 ||qpb*.sohu.com^
-||*.wap.xsbiquge.com^
 ||same*.stockstar.com^
 ||tracker*.qcloud.com^
 ||vs*.gzcu.u3.ucweb.com^
@@ -119,7 +120,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -274,11 +274,7 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -292,6 +288,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -302,6 +299,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -345,7 +343,9 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
+||stats2.*.fdnames.com^
 ||sads*z.com^
+||stats-*.p2pnow.ru^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
@@ -355,10 +355,10 @@
 ||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
-||stats*.credit-cooperatif.coop^
 ||stat*.1internet.tv^
 ||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

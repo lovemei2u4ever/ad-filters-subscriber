@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-08 16:25:11
+! Last Modified: 2024-11-09 00:31:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,7 +8,6 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -124,6 +123,7 @@
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -267,18 +267,18 @@
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
-||impservice*.yodao.com^
-||iptracker-lb-*.amazonaws.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||impservice*.yodao.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||iptracker-lb-*.amazonaws.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -327,7 +327,9 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
+||stats*.credit-cooperatif.coop^
 ||player-feedback*.glomex.*^
+||stat.*.v-56.com^
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
@@ -339,8 +341,6 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^

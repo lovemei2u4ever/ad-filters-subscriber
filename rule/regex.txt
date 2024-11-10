@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-10 00:22:35
+! Last Modified: 2024-11-10 09:41:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -119,15 +119,15 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||acookie.*.gif?
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||163487*.qmgmw.com^
+||a*.chajiaotong.com^
+||aan.amazon.*^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^

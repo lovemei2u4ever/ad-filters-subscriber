@@ -32,6 +32,9 @@ application:
         
       - name: 'BlueSkyXN'
         path: 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt'
+
+      - name: 'neodevpro'
+        path: 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker'
     #本地规则文件
     local:
       - name: 'local rule'

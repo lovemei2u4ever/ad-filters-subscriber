@@ -1,8 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-19 09:43:35
+! Last Modified: 2024-11-19 16:27:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -114,17 +119,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -218,7 +218,6 @@
 ||counter*.stat.ovh^
 ||cs*.mp3bars.com^
 ||d*.wanzhuang.com^
-||geotargetly-api-*.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -229,20 +228,16 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
-||stats2.*.fdnames.com^
+||geotargetly-api-*.com^
 ||f-log-*.grammarly.io^
-||stats-*.p2pnow.ru^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
-||hn-ping*.hashnode.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -256,10 +251,13 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -280,9 +278,9 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -324,6 +322,8 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^

@@ -1,12 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-20 09:42:19
+! Last Modified: 2024-11-20 16:28:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||profile*.se.360.cn^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
-@@||profile*.se.360.cn^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -72,6 +74,7 @@
 ||count*.pconline.com.cn^
 ||qchannel*.cn^
 ||sda*.xyz^
+||163487*.qmgmw.com^
 ||ad-*.com^
 ||ad-*.net^
 ||webads.*^
@@ -117,9 +120,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
@@ -349,9 +349,7 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
-||stats2.*.fdnames.com^
 ||sell*.etlong.com^
-||stats-*.p2pnow.ru^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
@@ -364,6 +362,8 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

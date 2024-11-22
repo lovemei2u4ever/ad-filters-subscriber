@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-22 16:27:28
+! Last Modified: 2024-11-23 00:26:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -120,10 +120,6 @@
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -158,8 +154,12 @@
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
 ||adv0*.msa.cdn.mediaset.net^
+||acookie.*.gif?
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
 ||aj1*.online^
@@ -321,8 +321,6 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -355,16 +353,18 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats*.credit-cooperatif.coop^
 ||servo-report.keepstreams.*^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-26 16:28:09
+! Last Modified: 2024-11-27 00:28:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -122,6 +122,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -199,10 +203,6 @@
 ||bjkedv*.xyz^
 ||browser-intake-*-datadoghq.com^
 ||c*hit.zerkalo.io^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||cas.*.criteo.com^
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
@@ -333,8 +333,10 @@
 ||player-feedback*.glomex.*^
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
+||stats2.*.fdnames.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats-*.p2pnow.ru^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
@@ -345,11 +347,9 @@
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
-||stats2.*.fdnames.com^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
-||stats-*.p2pnow.ru^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^

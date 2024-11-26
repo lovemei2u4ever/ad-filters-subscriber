@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-26 00:27:15
+! Last Modified: 2024-11-26 09:44:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -121,11 +121,11 @@
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -229,7 +229,6 @@
 ||dj1*.online^
 ||dn*.ixinwei.com^
 ||ej1*.online^
-||geotargetly-api-*.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -245,11 +244,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
-||hn-ping*.hashnode.com^
+||geotargetly-api-*.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -257,12 +252,11 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -283,6 +277,8 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -304,6 +300,8 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -342,6 +340,8 @@
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-28 16:28:45
+! Last Modified: 2024-11-29 00:26:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -130,11 +130,15 @@
 ||ad*.on.cc^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
+||acookie.*.gif?
 ||ad.*.xiaomi.com^
 ||ad.kisstvshow.*^
+||*serror*.wo.com.cn^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
+||lianmeng*.*^
+||tracking*.*^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -187,11 +191,7 @@
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||apple.com-*.live^
-||acookie.*.gif?
 ||asd8900.oss-*.aliyuncs.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
 ||banner.*.tccapis.com^
@@ -223,6 +223,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -251,11 +252,14 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -292,7 +296,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -303,7 +306,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -325,6 +327,8 @@
 ||pangolin-sdk-toutiao*.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
@@ -343,11 +347,9 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
-||stats2.*.fdnames.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
-||stats-*.p2pnow.ru^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
@@ -363,9 +365,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-30 09:42:28
+! Last Modified: 2024-11-30 16:25:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -41,7 +42,6 @@
 ||adm*.autoimg.cn^
 ||cloudservice*.kingsoft-office-service.com^
 ||gg*.51cto.com^
-||163487*.qmgmw.com^
 ||log.*.hunantv.com^
 ||iflyad.*.openstorage.cn^
 ||*customstat*.51togic.com^
@@ -121,7 +121,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||acookie.*.gif?
 ||a*.chajiaotong.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -188,10 +192,6 @@
 ||apple-*.le.com^
 ||apple.com-*.live^
 ||asd8900.oss-*.aliyuncs.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
 ||banner.*.tccapis.com^
@@ -228,6 +228,7 @@
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
+||geotargetly-api-*.com^
 ||ej1*.online^
 ||eum*.instana.io^
 ||events*.cre.ma^
@@ -251,7 +252,6 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -343,7 +343,6 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
-||stats2.*.fdnames.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -356,7 +355,6 @@
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
-||stats-*.p2pnow.ru^
 ||servo-report.keepstreams.*^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
@@ -367,6 +365,8 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-04 00:27:32
+! Last Modified: 2024-12-04 09:47:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -120,15 +121,14 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -336,8 +336,10 @@
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats2.*.fdnames.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
+||stats-*.p2pnow.ru^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
@@ -365,8 +367,6 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
-||stats-*.p2pnow.ru^
-||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

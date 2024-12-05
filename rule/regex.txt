@@ -1,14 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-05 00:28:53
+! Last Modified: 2024-12-05 09:47:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||profile*.se.360.cn^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-@@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -122,11 +122,7 @@
 ||tuiguang.*^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
 ||aan.amazon.*^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -170,6 +166,10 @@
 ||aj3*.bid^
 ||ajx*.online^
 ||ali-bj-pcdn-*.biliapi.net^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
@@ -356,6 +356,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
@@ -365,8 +367,6 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
-||stats-*.p2pnow.ru^
-||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

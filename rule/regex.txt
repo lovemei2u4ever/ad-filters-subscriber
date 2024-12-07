@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-07 16:26:06
+! Last Modified: 2024-12-08 00:25:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -123,6 +123,10 @@
 ||tuiguang.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -159,10 +163,6 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
@@ -336,6 +336,8 @@
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
@@ -362,11 +364,9 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||stat.*.v-56.com^
-||stats2.*.fdnames.com^
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
-||stats-*.p2pnow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

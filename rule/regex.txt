@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-16 16:30:18
+! Last Modified: 2024-12-17 00:28:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,7 +8,6 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -122,6 +121,7 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||*.xsph.ru^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
@@ -226,7 +226,6 @@
 ||datacollector-*.dt.hicloud.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
-||geotargetly-api-*.com^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
@@ -253,6 +252,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -272,10 +272,6 @@
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^
@@ -297,19 +293,21 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
 ||mistat.*.xiaomi.com^
@@ -325,6 +323,8 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^

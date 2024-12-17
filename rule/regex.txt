@@ -1,14 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-17 09:46:45
+! Last Modified: 2024-12-17 16:29:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -108,8 +102,6 @@
 ||guanggao*.*^
 ||omgmta*.*^
 ||omniture*.*^
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
@@ -124,6 +116,18 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||*.xsph.ru^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -135,11 +139,7 @@
 ||ad.kisstvshow.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
-||acookie.*.gif?
 ||admob-app-id-*.firebaseio.com^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -224,13 +224,19 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
-||geotargetly-api-*.com^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
 ||ej1*.online^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||faro-collector-prod-*.grafana.net^
+||hn-ping*.hashnode.com^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
@@ -239,7 +245,6 @@
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
-||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -257,7 +262,6 @@
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -293,7 +297,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -301,7 +304,6 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
@@ -321,6 +323,8 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -334,9 +338,7 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||player-feedback*.glomex.*^
 ||polaris*-normal-*.zijieapi.com^
-||stats2.*.fdnames.com^
 ||prebid-*.rubiconproject.com^
-||stats-*.p2pnow.ru^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
@@ -359,8 +361,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^

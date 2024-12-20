@@ -1,8 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-20 00:24:05
+! Last Modified: 2024-12-20 09:39:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -116,11 +121,6 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||*.xsph.ru^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -235,7 +235,6 @@
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
-||geotargetly-api-*.com^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
@@ -244,6 +243,7 @@
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
+||geotargetly-api-*.com^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||gads*s.com^
@@ -256,7 +256,11 @@
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||hbbtv.*.de^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -293,7 +297,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -304,7 +307,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -324,8 +326,6 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -352,6 +352,8 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
@@ -359,8 +361,6 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^

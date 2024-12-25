@@ -1,15 +1,16 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-25 09:37:27
+! Last Modified: 2024-12-25 16:26:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
-@@||profile*.se.360.cn^
-@@||usageapi.*.oraclecloud.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
+@@||profile*.se.360.cn^
+@@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
@@ -121,11 +122,6 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||*.xsph.ru^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -176,9 +172,13 @@
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
 ||analytics-*-nfl.yinzcam.com^
+||acookie.*.gif?
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
 ||api*.amplitude.com^
@@ -321,11 +321,11 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -339,6 +339,8 @@
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
@@ -364,9 +366,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

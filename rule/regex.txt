@@ -1,14 +1,15 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-26 00:24:12
+! Last Modified: 2024-12-26 09:37:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||profile*.se.360.cn^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
+@@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -120,12 +121,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*.xsph.ru^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -164,6 +159,10 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
@@ -352,8 +351,6 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
@@ -368,6 +365,8 @@
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.api.playstation.com^

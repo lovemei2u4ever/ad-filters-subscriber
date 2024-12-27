@@ -1,9 +1,15 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-27 09:38:19
+! Last Modified: 2024-12-27 16:25:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
+||163487*.qmgmw.com^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -21,11 +27,6 @@
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||qpb*.sohu.com^
 ||same*.stockstar.com^
 ||tracker*.qcloud.com^
@@ -120,12 +121,9 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
+||*serror*.wo.com.cn^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -154,6 +152,8 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
+||lianmeng*.*^
+||tracking*.*^
 ||ads.livetv*.me^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
@@ -228,6 +228,7 @@
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
+||geotargetly-api-*.com^
 ||ej1*.online^
 ||eum*.instana.io^
 ||events*.cre.ma^
@@ -251,7 +252,6 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -300,13 +300,15 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -343,7 +345,6 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
-||stats2.*.fdnames.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -352,20 +353,19 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

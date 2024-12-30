@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-30 00:22:33
+! Last Modified: 2024-12-30 09:41:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -120,13 +121,14 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
@@ -161,8 +163,6 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||lianmeng*.*^
-||tracking*.*^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
@@ -244,7 +244,6 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||geotargetly-api-*.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -252,6 +251,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -343,8 +343,6 @@
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
@@ -354,6 +352,8 @@
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^

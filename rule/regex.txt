@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-30 16:26:31
+! Last Modified: 2024-12-31 00:24:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -209,6 +209,7 @@
 ||chat*-ce.chatdealer.jp^
 ||cj1*.online^
 ||clog*.yuanfudao.com^
+||geotargetly-api-*.com^
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collector*.ex.co^
@@ -223,11 +224,17 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
+||faro-collector-prod-*.grafana.net^
+||hn-ping*.hashnode.com^
 ||ej1*.online^
 ||eum*.instana.io^
 ||events*.cre.ma^
@@ -237,8 +244,6 @@
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
-||faro-collector-prod-*.grafana.net^
-||geotargetly-api-*.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -256,7 +261,6 @@
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -268,6 +272,8 @@
 ||hw-sh-pcdn-*.biliapi.net^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -292,7 +298,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -303,7 +308,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -322,9 +326,7 @@
 ||n*adserv.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
-||stats2.*.fdnames.com^
 ||pangolin-sdk-toutiao*.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -341,8 +343,6 @@
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^

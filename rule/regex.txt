@@ -1,13 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-06 00:22:27
+! Last Modified: 2025-01-06 09:42:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -120,12 +115,17 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -219,7 +219,14 @@
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
 ||cs*.mp3bars.com^
+||geotargetly-api-*.com^
 ||d*.wanzhuang.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||faro-collector-prod-*.grafana.net^
+||hn-ping*.hashnode.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -228,17 +235,17 @@
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
-||geotargetly-api-*.com^
 ||ej1*.online^
 ||eum*.instana.io^
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
-||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -256,7 +263,6 @@
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -271,8 +277,6 @@
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^
@@ -283,7 +287,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats2.*.fdnames.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -297,7 +300,6 @@
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
-||stats-*.p2pnow.ru^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
@@ -363,11 +365,10 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
+||util-*.simply-hentai.com^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
 ||thezbpe5*.xyz^
@@ -387,7 +388,6 @@
 ||ulog*.*^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
-||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
 ||v*.denakop.com^
 ||vns86.oss-*.aliyuncs.com^

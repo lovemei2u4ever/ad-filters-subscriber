@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-06 09:42:38
+! Last Modified: 2025-01-06 16:26:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -120,13 +120,11 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||ad*.ettoday.net^
@@ -169,6 +167,8 @@
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
+||lianmeng*.*^
+||tracking*.*^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
@@ -219,14 +219,7 @@
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
 ||cs*.mp3bars.com^
-||geotargetly-api-*.com^
 ||d*.wanzhuang.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
-||faro-collector-prod-*.grafana.net^
-||hn-ping*.hashnode.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -241,11 +234,10 @@
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
+||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -259,10 +251,12 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
+||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -298,6 +292,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -308,6 +303,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -327,6 +323,8 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -355,6 +353,8 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
@@ -368,7 +368,6 @@
 ||static*.365inews.com^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
-||util-*.simply-hentai.com^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
 ||thezbpe5*.xyz^
@@ -388,6 +387,7 @@
 ||ulog*.*^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
+||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
 ||v*.denakop.com^
 ||vns86.oss-*.aliyuncs.com^

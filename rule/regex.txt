@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-09 10:06:15
+! Last Modified: 2025-01-09 16:25:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -151,18 +151,18 @@
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
-||acookie.*.gif?
 ||adv0*.msa.cdn.mediaset.net^
-||*serror*.wo.com.cn^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||aem-collector-*.kgslb.com^
+||aff*.kolektiva.net^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||ablen*.tk^
 ||darking*.tk^
 ||doubleclick*.xyz^
 ||lianmeng*.*^
 ||tracking*.*^
-||aem-collector-*.kgslb.com^
-||aff*.kolektiva.net^
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
@@ -220,6 +220,7 @@
 ||creative*.bidease.com^
 ||cs*.mp3bars.com^
 ||d*.wanzhuang.com^
+||geotargetly-api-*.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -228,6 +229,12 @@
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
 ||dn*.ixinwei.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||faro-collector-prod-*.grafana.net^
+||hn-ping*.hashnode.com^
 ||ej1*.online^
 ||eum*.instana.io^
 ||events*.cre.ma^
@@ -237,8 +244,6 @@
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
-||faro-collector-prod-*.grafana.net^
-||geotargetly-api-*.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -252,13 +257,11 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||stats*.credit-cooperatif.coop^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -268,15 +271,12 @@
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
 ||hw-sh-pcdn-*.biliapi.net^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
+||stat.*.v-56.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^

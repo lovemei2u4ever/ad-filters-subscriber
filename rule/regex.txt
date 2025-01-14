@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-14 16:25:31
+! Last Modified: 2025-01-15 00:25:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,8 +8,8 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-@@||profile*.se.360.cn^
 ||163487*.qmgmw.com^
+@@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -52,7 +52,8 @@
 ||admicro*.vcmedia.vn^
 ||xn--xhq9mt12cf5v.*^
 ||freecontent.*^
-||hostingcloud.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||jshosting.*^
 ||flightzy.*^
 ||sunnimiq*.cf^
@@ -64,6 +65,9 @@
 ||24log.*^
 ||24smi.*^
 ||ad-*.wikawika.xyz^
+||ablen*.tk^
+||darking*.tk^
+||doubleclick*.xyz^
 ||adserver.*^
 ||clientlog*.music.163.com^
 ||brucelead*.com^
@@ -103,12 +107,14 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -118,14 +124,8 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||hostingcloud.*^
 ||a*.chajiaotong.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||ablen*.tk^
-||darking*.tk^
-||doubleclick*.xyz^
-||lianmeng*.*^
-||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -221,9 +221,12 @@
 ||creative*.bidease.com^
 ||cs*.mp3bars.com^
 ||d*.wanzhuang.com^
+||geotargetly-api-*.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -239,13 +242,17 @@
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||hn-ping*.hashnode.com^
 ||firebaselogging-*.googleapis.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||geotargetly-api-*.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -257,7 +264,6 @@
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -282,8 +288,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -296,8 +300,6 @@
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -321,10 +323,8 @@
 ||ms*.applvn.com^
 ||mssdk*.zijieapi.com^
 ||mssdk-*.tiktokw.us^
-||stats*.credit-cooperatif.coop^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^

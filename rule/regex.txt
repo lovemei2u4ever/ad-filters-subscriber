@@ -1,9 +1,15 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-14 09:34:28
+! Last Modified: 2025-01-14 16:25:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
+||163487*.qmgmw.com^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
@@ -112,12 +118,7 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||ablen*.tk^
@@ -125,7 +126,6 @@
 ||doubleclick*.xyz^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -245,6 +245,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
+||geotargetly-api-*.com^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -252,7 +253,6 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -282,6 +282,8 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -293,8 +295,9 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -304,7 +307,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -319,13 +321,13 @@
 ||ms*.applvn.com^
 ||mssdk*.zijieapi.com^
 ||mssdk-*.tiktokw.us^
+||stats*.credit-cooperatif.coop^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -351,8 +353,6 @@
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^

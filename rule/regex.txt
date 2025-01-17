@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-17 16:24:34
+! Last Modified: 2025-01-18 00:24:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -133,7 +133,6 @@
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
-||acookie.*.gif?
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -147,18 +146,19 @@
 ||ads*.zijieapi.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads-dmp-collect.*.karrotmarket.com^
-||*serror*.wo.com.cn^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
+||ads.livetv*.me^
+||adserver.*.yahoodns.net^
+||adservice.google.*^
+||adsfilebssdlbig.*.kugou.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||ablen*.tk^
 ||darking*.tk^
 ||doubleclick*.xyz^
 ||lianmeng*.*^
 ||tracking*.*^
-||ads.livetv*.me^
-||adserver.*.yahoodns.net^
-||adservice.google.*^
-||adsfilebssdlbig.*.kugou.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -266,10 +266,14 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
+||stats2.*.fdnames.com^
 ||ifengad.*.ifeng.com^
+||stats-*.p2pnow.ru^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -293,7 +297,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -304,7 +307,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -321,11 +323,11 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.com.vn^
@@ -361,8 +363,6 @@
 ||servo-report.keepstreams.*^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

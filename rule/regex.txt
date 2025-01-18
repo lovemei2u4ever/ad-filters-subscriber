@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-18 00:24:10
+! Last Modified: 2025-01-18 09:26:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -75,7 +75,11 @@
 ||sda*.xyz^
 ||ad-*.com^
 ||ad-*.net^
-||webads.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||ablen*.tk^
+||darking*.tk^
+||doubleclick*.xyz^
 ||web-stat.*^
 ||waframedia*.*^
 ||wafmedia*.*^
@@ -103,12 +107,14 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -118,6 +124,7 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||webads.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -152,13 +159,6 @@
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||ablen*.tk^
-||darking*.tk^
-||doubleclick*.xyz^
-||lianmeng*.*^
-||tracking*.*^
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -266,14 +266,10 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
-||stats2.*.fdnames.com^
 ||ifengad.*.ifeng.com^
-||stats-*.p2pnow.ru^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -286,6 +282,9 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -299,6 +298,7 @@
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
+||stats-*.p2pnow.ru^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^

@@ -1,8 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-20 09:37:45
+! Last Modified: 2025-01-20 16:26:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||*.wap.xsbiquge.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -112,12 +117,14 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||ablen*.tk^
+||darking*.tk^
+||doubleclick*.xyz^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -157,19 +164,12 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||acookie.*.gif?
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
 ||aj2*.online^
 ||aj3*.bid^
 ||ajx*.online^
-||*serror*.wo.com.cn^
-||ablen*.tk^
-||darking*.tk^
-||doubleclick*.xyz^
-||lianmeng*.*^
-||tracking*.*^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ana*.inews24.com^
 ||analytics*.carambo.la^
@@ -272,20 +272,19 @@
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||stats2.*.fdnames.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -299,6 +298,7 @@
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
+||stats-*.p2pnow.ru^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
@@ -323,10 +323,10 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||stats*.credit-cooperatif.coop^
 ||stat.*.v-56.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^

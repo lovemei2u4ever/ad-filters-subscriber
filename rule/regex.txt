@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-22 00:25:41
+! Last Modified: 2025-01-22 09:38:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,11 +8,9 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
-||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
-||*serror*.wo.com.cn^
+@@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
@@ -104,14 +102,12 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
-||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
-||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -121,8 +117,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
-@@||tongji.*kuwo.cn^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -253,12 +253,8 @@
 ||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||stats-*.p2pnow.ru^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -295,6 +291,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -305,10 +302,9 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
-||stats*.credit-cooperatif.coop^
 ||mediate-ios-*.hyprmx.com^
-||stat.*.v-56.com^
 ||metric*.rediff.com^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
@@ -359,13 +355,17 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats2.*.fdnames.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

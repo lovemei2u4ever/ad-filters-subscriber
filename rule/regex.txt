@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-22 09:38:02
+! Last Modified: 2025-01-22 16:26:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -117,11 +118,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -134,6 +130,10 @@
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
 ||ad.kisstvshow.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
@@ -295,14 +295,16 @@
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
+||mcdp-*.outbrain.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -338,6 +340,8 @@
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
@@ -355,17 +359,13 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats2.*.fdnames.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
-||stats-*.p2pnow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

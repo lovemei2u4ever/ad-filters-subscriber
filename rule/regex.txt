@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-24 00:25:32
+! Last Modified: 2025-01-24 09:36:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,9 +8,9 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
+||163487*.qmgmw.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
@@ -118,11 +118,11 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -208,6 +208,7 @@
 ||cj1*.online^
 ||clickstream-*.homedepot.com^
 ||clog*.yuanfudao.com^
+||geotargetly-api-*.com^
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collector*.ex.co^
@@ -243,7 +244,6 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
-||geotargetly-api-*.com^
 ||fpb*.51edu.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -252,13 +252,9 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
-||stats2.*.fdnames.com^
 ||hads*s.com^
-||stats-*.p2pnow.ru^
 ||hbbtv.*.de^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
@@ -275,18 +271,20 @@
 ||ifengad.*.ifeng.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||stats*.credit-cooperatif.coop^
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stat.*.v-56.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -324,6 +322,8 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -385,6 +385,7 @@
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
 ||ulog*.*^
+||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
 ||util-*.simply-hentai.com^

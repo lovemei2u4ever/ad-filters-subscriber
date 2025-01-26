@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-26 09:38:54
+! Last Modified: 2025-01-26 16:21:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -117,7 +118,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -131,11 +131,11 @@
 ||ad.*.xiaomi.com^
 ||ad.kisstvshow.*^
 ||acookie.*.gif?
-||adcounter*.uptolike.ru^
-||adcs-*.myappsget.com^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||adcounter*.uptolike.ru^
+||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
@@ -223,6 +223,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -234,11 +235,16 @@
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||firebaselogging-*.googleapis.com^
+||hn-ping*.hashnode.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -251,12 +257,10 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
 ||host*.nti.nl^
@@ -269,6 +273,8 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -281,8 +287,6 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -320,8 +324,6 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -342,8 +344,6 @@
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
 ||reachableads-av.*.amazonaws.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
@@ -379,6 +379,7 @@
 ||tracking-*.trnox.com^
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
+||util-*.simply-hentai.com^
 ||trk*.vidible.tv^
 ||tupian888.*.bcebos.com^
 ||tw*.netcore.co.in^
@@ -388,13 +389,18 @@
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
-||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
 ||v*.denakop.com^
 ||vns86.oss-*.aliyuncs.com^
 ||w*.*skwai.com^
 ||widgets.*.webengage.com^
 ||www.xxmh*.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
+||107.167.22.*.gif
+||121.204.246.*.gif
+||38.33.15.*.gif
+||67.21.92.*.gif
 ||xlog*-*.tiktokv.com^
 ||ya*.dwstatic.com^
 ||yhsfsdv*.com^
@@ -409,12 +415,6 @@
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
-||107.167.22.*.gif
-||121.204.246.*.gif
-||38.33.15.*.gif
-||67.21.92.*.gif
 ||bdcpro*.techweb.com.cn^
 ||ysdm*.ys137.com.cn^
 ||teleriumads-*.netdna-ssl.com^

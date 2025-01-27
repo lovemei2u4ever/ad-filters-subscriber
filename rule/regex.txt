@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-27 00:21:57
+! Last Modified: 2025-01-27 09:37:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,10 +8,9 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
+||163487*.qmgmw.com^
 @@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
@@ -123,6 +122,7 @@
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -223,6 +223,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -247,19 +248,14 @@
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
-||geotargetly-api-*.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||hads*s.com^
 ||hbbtv.*.de^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -282,11 +278,13 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||log*-applog-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -305,6 +303,8 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-29 09:35:59
+! Last Modified: 2025-01-29 16:25:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -9,10 +9,9 @@
 ||*.exaapi.com^
 ||*.wap.xsbiquge.com^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
-||*serror*.wo.com.cn^
+@@||tongji.*kuwo.cn^
 ||ac*.786ip.com^
 ||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
@@ -104,14 +103,12 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
-||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
-||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -122,8 +119,11 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
-@@||tongji.*kuwo.cn^
 ||aan.amazon.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -239,7 +239,6 @@
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
-||geotargetly-api-*.com^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -252,6 +251,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -269,8 +269,6 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -280,8 +278,6 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -296,6 +292,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -306,9 +303,12 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -320,8 +320,6 @@
 ||ms*.applvn.com^
 ||mssdk*.zijieapi.com^
 ||mssdk-*.tiktokw.us^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
@@ -360,6 +358,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^

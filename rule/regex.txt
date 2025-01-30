@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-30 00:25:53
+! Last Modified: 2025-01-30 09:34:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -116,12 +116,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||163487*.qmgmw.com^
-||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||163487*.qmgmw.com^
+||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -215,6 +215,7 @@
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
 ||cs*.mp3bars.com^
+||geotargetly-api-*.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -233,6 +234,8 @@
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||firebaselogging-*.googleapis.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -241,11 +244,12 @@
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
+||stats2.*.fdnames.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
+||stats-*.p2pnow.ru^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -285,7 +289,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -293,13 +296,14 @@
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -313,8 +317,6 @@
 ||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -334,8 +336,6 @@
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||quangcao-*.epicdn.me^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||reachableads-av.*.amazonaws.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^

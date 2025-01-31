@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-31 09:36:29
+! Last Modified: 2025-01-31 16:24:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -117,12 +117,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||a*.chajiaotong.com^
-||aan.amazon.*^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||a*.chajiaotong.com^
+||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -228,7 +228,6 @@
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
-||geotargetly-api-*.com^
 ||f-log-*.grammarly.io^
 ||fads*s.com^
 ||fads*z.com^
@@ -246,6 +245,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -344,20 +344,20 @@
 ||s*.skencituer.com^
 ||sads*z.com^
 ||sam*.baby-kingdom.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

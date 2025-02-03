@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-03 16:26:31
+! Last Modified: 2025-02-04 00:25:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -121,6 +121,10 @@
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||acr-*-prd.samsungcloud.tv^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
@@ -129,10 +133,6 @@
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.xiaomi.com^
 ||ad.kisstvshow.*^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
@@ -287,7 +287,6 @@
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
-||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -297,15 +296,13 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
-||mobileoffers-*-download.com^
 ||mon*-*.tiktokv.us^
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
@@ -318,11 +315,8 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
-||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
 ||pixel-*.convertagain.net^
@@ -331,6 +325,8 @@
 ||player-feedback*.glomex.*^
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
+||prod.*.analytics.console.aws.a2z.com^
+||prod.*.publishers.advertising.a2z.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
 ||px*.mediahills.ru^
@@ -346,7 +342,6 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
-||sads*z.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
@@ -356,8 +351,12 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
+||stat.*.v-56.com^
 ||static*.365inews.com^
+||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
+||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^

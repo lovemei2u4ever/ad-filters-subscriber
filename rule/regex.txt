@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-04 00:25:28
+! Last Modified: 2025-02-04 09:36:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -118,13 +118,13 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
-||aan.amazon.*^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
+||aan.amazon.*^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
@@ -297,6 +297,9 @@
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mcdp-*.outbrain.com^
+||mcs-*.lemon8-app.com^
+||mcs-*.lemon8-app.us^
+||mcs-*.tiktok.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
@@ -306,10 +309,15 @@
 ||mon*-*.tiktokv.us^
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
+||mon-*.lemon8-app.com^
+||mon-*.lemon8-app.us^
 ||mon-*.tiktokv.com^
 ||ms*.applvn.com^
+||mssdk*.tiktok.com^
+||mssdk*.tiktokv.eu^
+||mssdk*.tiktokv.us^
+||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
-||mssdk-*.tiktokw.us^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^

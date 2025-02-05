@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-05 00:25:59
+! Last Modified: 2025-02-05 09:37:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -117,6 +118,9 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -178,10 +182,6 @@
 ||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||app-analytics-*.snapchat.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||apple.com-*.live^
@@ -218,6 +218,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||geotargetly-api-*.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||display-ad-*.kgslb.com^
@@ -233,7 +234,6 @@
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
-||geotargetly-api-*.com^
 ||firebaselogging-*.googleapis.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -287,16 +287,17 @@
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||mcdp-*.outbrain.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
 ||mapi-log.qoo*.jp^
+||stats2.*.fdnames.com^
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
@@ -318,6 +319,7 @@
 ||mssdk*.tiktokv.us^
 ||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
+||stats-*.p2pnow.ru^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
@@ -347,8 +349,6 @@
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
@@ -356,14 +356,14 @@
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
@@ -376,6 +376,7 @@
 ||tracking-*.trnox.com^
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||trk*.vidible.tv^
 ||tupian888.*.bcebos.com^
 ||tw*.netcore.co.in^

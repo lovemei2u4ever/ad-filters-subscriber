@@ -1,13 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-10 00:22:05
+! Last Modified: 2025-02-10 09:39:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
-||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -117,7 +116,12 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -147,11 +151,7 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
 ||ads.*.yahoo.com^
-||acookie.*.gif?
 ||ads.livetv*.me^
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adsfilebssdlbig.*.kugou.com^
@@ -211,7 +211,6 @@
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
-||geotargetly-api-*.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
@@ -238,6 +237,7 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
+||geotargetly-api-*.com^
 ||fpb*.51edu.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
@@ -275,8 +275,6 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -324,6 +322,8 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^

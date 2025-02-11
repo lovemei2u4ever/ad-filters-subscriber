@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-11 16:26:02
+! Last Modified: 2025-02-12 00:27:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -118,6 +118,10 @@
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -132,10 +136,6 @@
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||admob-app-id-*.firebaseio.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
@@ -271,6 +271,8 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -285,7 +287,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -296,14 +297,15 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
+||stats2.*.fdnames.com^
 ||mistat.*.xiaomi.com^
+||stats-*.p2pnow.ru^
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mon*-*.tiktokv.us^
@@ -322,8 +324,6 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -358,10 +358,10 @@
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^

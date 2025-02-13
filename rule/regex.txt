@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-13 16:26:10
+! Last Modified: 2025-02-14 00:26:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -119,6 +119,10 @@
 ||tuiguang.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -172,10 +176,6 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
@@ -323,6 +323,8 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -356,18 +358,16 @@
 ||s*.skencituer.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^

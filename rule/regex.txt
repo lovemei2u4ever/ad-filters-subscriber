@@ -1,8 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-15 09:36:47
+! Last Modified: 2025-02-15 16:23:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||163487*.qmgmw.com^
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -112,11 +117,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||acookie.*.gif?
 ||*serror*.wo.com.cn^
@@ -331,6 +331,8 @@
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.vn^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||pixel*.production-public.tubi.io^
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
@@ -363,8 +365,6 @@
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||static*.365inews.com^

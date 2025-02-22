@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-22 16:23:17
+! Last Modified: 2025-02-23 00:22:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -8,6 +8,7 @@
 ||*-applog.fqnovel.com^
 ||*.exaapi.com^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -23,6 +24,7 @@
 ||gg*.miguvideo.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
+||*serror*.wo.com.cn^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
@@ -68,12 +70,14 @@
 ||brucelead*.com^
 ||gostats.*^
 ||oiwjcsh*.top^
+||oiwjcsh*.top^
 ||*-analytics*.huami.com^
 ||count*.pconline.com.cn^
 ||qchannel*.cn^
 ||sda*.xyz^
 ||ad-*.com^
 ||ad-*.net^
+||*-analytics*.huami.com^
 ||webads.*^
 ||web-stat.*^
 ||waframedia*.*^
@@ -109,18 +113,16 @@
 ||socdm*.*^
 ||supersonicads*.*^
 ||usage*.*^
+||lianmeng*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
 ||ssc.southpark*^
 ||tr.*.espmp-*fr.net^
+||tracking*.*^
 ||da.hornbach.*^
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -307,8 +309,6 @@
 ||mcs-va-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||mistat.*.xiaomi.com^
 ||mob*.novanewsapp.com^
 ||mobiadvert*.livesportmedia.eu^
@@ -328,6 +328,8 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -364,11 +366,11 @@
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||st-*.dynamicyield.com^
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^

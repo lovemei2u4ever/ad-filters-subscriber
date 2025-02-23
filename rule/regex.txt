@@ -1,14 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-23 00:22:58
+! Last Modified: 2025-02-23 09:44:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*-ad-sign.byteimg.com^
-||*-ad.a.yximgs.com^
-||*-applog.fqnovel.com^
-||*.exaapi.com^
-||163487*.qmgmw.com^
-||acookie.*.gif?
 @@||profile*.se.360.cn^
 @@||usageapi.*.oraclecloud.com^
 @@||tongji.*kuwo.cn^
@@ -24,7 +18,6 @@
 ||gg*.miguvideo.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
-||*serror*.wo.com.cn^
 ||minero-proxy-*.sh^
 ||p*-ad-sign.byteimg.com^
 ||ping.*.sogou.com^
@@ -70,14 +63,12 @@
 ||brucelead*.com^
 ||gostats.*^
 ||oiwjcsh*.top^
-||oiwjcsh*.top^
 ||*-analytics*.huami.com^
 ||count*.pconline.com.cn^
 ||qchannel*.cn^
 ||sda*.xyz^
 ||ad-*.com^
 ||ad-*.net^
-||*-analytics*.huami.com^
 ||webads.*^
 ||web-stat.*^
 ||waframedia*.*^
@@ -113,16 +104,23 @@
 ||socdm*.*^
 ||supersonicads*.*^
 ||usage*.*^
-||lianmeng*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
 ||ssc.southpark*^
 ||tr.*.espmp-*fr.net^
-||tracking*.*^
 ||da.hornbach.*^
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
+||*-applog.fqnovel.com^
+||*.exaapi.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
@@ -232,6 +230,7 @@
 ||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
+||geotargetly-api-*.com^
 ||f-log-*.grammarly.io^
 ||fads*s.com^
 ||fads*z.com^
@@ -250,7 +249,10 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
-||geotargetly-api-*.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||hads*s.com^
@@ -291,7 +293,6 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -302,7 +303,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
@@ -328,8 +328,8 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -369,8 +369,6 @@
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||st-*.dynamicyield.com^
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^

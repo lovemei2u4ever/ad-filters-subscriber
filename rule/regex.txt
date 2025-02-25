@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-25 00:27:30
+! Last Modified: 2025-02-25 09:41:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -56,7 +56,8 @@
 ||flightzy.*^
 ||sunnimiq*.cf^
 ||admob.*^
-||*log.droid4x.cn^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
 ||*tsdk.vivo.com.cn^
 ||*.mmstat.com^
 ||f-log*.grammarly.io^
@@ -102,12 +103,14 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
+||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
 ||pingfore*.*^
 ||socdm*.*^
 ||supersonicads*.*^
+||tracking*.*^
 ||usage*.*^
 ||engage.3m*^
 ||2cnjuh34j*.com^
@@ -117,12 +120,9 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*log.droid4x.cn^
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -327,10 +327,10 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
-||stats2.*.fdnames.com^
 ||p26.gejulm*.com^
-||stats-*.p2pnow.ru^
+||stats2.*.fdnames.com^
 ||pangolin-sdk-toutiao*.com^
+||stats-*.p2pnow.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||piwik.*.vn^

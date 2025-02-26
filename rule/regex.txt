@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-26 09:40:36
+! Last Modified: 2025-02-26 16:27:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||*-ad-sign.byteimg.com^
@@ -118,10 +118,10 @@
 ||tuiguang.*^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
+||a*.chajiaotong.com^
 ||*serror*.wo.com.cn^
 ||lianmeng*.*^
 ||tracking*.*^
-||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -275,9 +275,12 @@
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||stats2.*.fdnames.com^
 ||log*-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -289,8 +292,8 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||stats-*.p2pnow.ru^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
@@ -300,7 +303,6 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mcdp-*.outbrain.com^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
@@ -327,8 +329,6 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
@@ -363,6 +363,8 @@
 ||s*.skencituer.com^
 ||sam*.baby-kingdom.com^
 ||sd.yhzzzs*.com^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
 ||sock*-goguardian.pusher.com^
@@ -371,9 +373,7 @@
 ||st-*.dynamicyield.com^
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||static*.365inews.com^
-||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||stlog*-local.kakao.com^
 ||t*.playdigo.live^

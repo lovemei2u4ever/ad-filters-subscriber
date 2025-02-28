@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-28 00:27:34
+! Last Modified: 2025-02-28 09:41:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -118,6 +118,10 @@
 ||*.exaapi.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -202,17 +206,13 @@
 ||cj1*.online^
 ||clickstream-*.homedepot.com^
 ||clog*.yuanfudao.com^
-||acookie.*.gif?
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
-||*serror*.wo.com.cn^
 ||collector*.ex.co^
 ||collector-*.px-client.net^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
-||lianmeng*.*^
-||tracking*.*^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
@@ -329,8 +329,10 @@
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||pangolin-sdk-toutiao*.com^
+||stats2.*.fdnames.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
+||stats-*.p2pnow.ru^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
 ||pixel-*.convertagain.net^
@@ -362,8 +364,6 @@
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^

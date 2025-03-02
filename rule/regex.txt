@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-02 16:23:50
+! Last Modified: 2025-03-03 00:23:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||profile*.se.360.cn^
@@ -118,6 +118,10 @@
 ||*.exaapi.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
+||acookie.*.gif?
+||*serror*.wo.com.cn^
+||lianmeng*.*^
+||tracking*.*^
 ||aan.amazon.*^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -172,10 +176,6 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
-||acookie.*.gif?
-||*serror*.wo.com.cn^
-||lianmeng*.*^
-||tracking*.*^
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
@@ -273,14 +273,10 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
 ||log*-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
 ||log*-misc-lq.amemv.com^
@@ -292,6 +288,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -302,6 +299,7 @@
 ||marketplace-*.hyprmx.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
+||mcdp-*.outbrain.com^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
@@ -319,6 +317,7 @@
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.tiktokv.com^
+||stats2.*.fdnames.com^
 ||ms*.applvn.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.tiktok.com^
@@ -326,6 +325,7 @@
 ||mssdk*.tiktokv.us^
 ||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
+||stats-*.p2pnow.ru^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||opnked*.xyz^
@@ -361,11 +361,11 @@
 ||rum*.cdnvideo.ru^
 ||s*.skencituer.com^
 ||sam*.baby-kingdom.com^
-||stats*.credit-cooperatif.coop^
-||stat.*.v-56.com^
 ||sd.yhzzzs*.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||stats*.credit-cooperatif.coop^
+||stat.*.v-56.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^

@@ -72,14 +72,14 @@ application:
           - basic
           - wildcard
 
-      - name: dnsmasq.txt
-        type: dnsmasq
+      #- name: dnsmasq.txt
+        #type: dnsmasq
 
-      - name: clash.yaml
-        type: clash
+      #- name: clash.yaml
+        #type: clash
 
-      - name: smartdns.txt
-        type: smartdns
+      #- name: smartdns.txt
+        #type: smartdns
 
-      - name: hosts.txt
-        type: hosts
+      #- name: hosts.txt
+        #type: hosts

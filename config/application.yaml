@@ -27,8 +27,6 @@ application:
   # remote为远程规则，local为本地规则，支持多个规则源
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
-  rule:
-    #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
       - name: 'AWAvenue'
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
